@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+
+body{
+    background: linear-gradient(to bottom, #333333 0%, #333333 350px, #EDEDED 350px, #EDEDED 100%);
+    font-family:georgia,garamond,serif;font-size:14px;
+}
+.onHoverDark:hover { background: #222222; color: #BABABA !important;}
+.activeCustom { color:#FFF !important; }
+.inactiveCustom{ color: #A9A9A9 !important; }
+.hrefWithoutDecoration{ color: #000 !important; text-decoration: none !important;}

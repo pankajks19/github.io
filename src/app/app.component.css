@@ -1,0 +1,9 @@
+.myClass{
+    background: #333;
+    color: white;
+    margin-top: 50px; 
+    padding: 10px
+}
+.someOtherClass{
+    text-align: center;
+}
